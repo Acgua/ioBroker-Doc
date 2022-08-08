@@ -43,9 +43,7 @@ Falls es nicht funktioniert, ioBroker wieder deinstallieren über die Wondows-In
 ## 4. Veralteten Admin-Adapter aktualisieren
 1. In ioBroker-Konsole `iobroker upgrade admin` eingeben, damit wird der Admin-Adapter aktualisiert. Hierbei ist ggf. eine Bestätigung mit ja/yes erforderlich in der Konsole.
 2. `iobroker start`
-3. Jetzt sollte über `http://localhost:8081/` oder `http://127.0.0.1:8081/` die Admin-Oberfläche erreichbar sein. Falls nicht: Rechner neu starten und erneut probieren. Sicherstellen, dass im Taskmanager "ioBroker(<DEINE BEZEICHNUNG>)" auf Status = "Wird ausgeführt" ist. Manuelles Starten ioBroker: ioBroker-Konsole öffnen und `iobroker start` eingeben.
+3. Jetzt sollte über `http://localhost:8081/` oder `http://127.0.0.1:8081/` die Admin-Oberfläche erreichbar sein. Falls nicht: Rechner neu starten und erneut probieren. Sicherstellen, dass im Taskmanager "ioBroker(\<DEINE BEZEICHNUNG\>)" auf Status = "Wird ausgeführt" ist.
   
 ## Fertig
-Nun sollte also ioBroker unter Windows laufen.
-
-
+Nun sollte also ioBroker unter Windows laufen und per Admin-Oberfläche erreichbar sein. 
