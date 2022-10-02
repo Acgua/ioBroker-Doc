@@ -45,8 +45,6 @@ Bei Diebstahl des Barebones oder etwa bei defekter Festplatte kommt keiner ohne 
 ### IP-Adresse
 Ich belasse die Einstellungen (DHCP) und weise die vergebene IP im Router fest zu (z.B. in Fritzbox: Heimnetz > Netzwerk > (Barebone) > Option: "Diesem Netzwerkgerät immer die gleiche IPv4-Adresse zuweisen.")
 
-### Fehlende Firmware
-
 ## Zugang via SSH um Verschlüsselungspasswort etwa von Windows aus einzugeben
 1. `sudo apt install dropbear-initramfs` Folgende Ausgabe fixen wir später: "WARNING: Invalid authorized_keys file, SSH login to initramfs won't work!"
 1. Windows-Konsole: `ssh-keygen -t rsa -f c:\Users\<user>\Downloads\unlock_luks` - dabei ggf. Pfad und Dateiname entsprechend anpassen. Passwort vergeben
