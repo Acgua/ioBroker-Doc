@@ -61,7 +61,7 @@ Ich belasse die Einstellungen (DHCP) und weise die vergebene IP im Router fest z
  1. Passwort für SSH-Schlüssel eingeben
  1. `cryptroot-unlock` eingeben
  1. Verschlüsselungspasswort eingeben
- 1. Wenn erfolgreich, erscheint: "cryptsetup: sda3_crypt set up successfully"
+ 1. Wenn erfolgreich, erscheint: "cryptsetup: xxx_crypt set up successfully"
 
 (per: https://www.dwarmstrong.org/remote-unlock-dropbear/)
 
