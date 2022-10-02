@@ -29,7 +29,7 @@ Bei Diebstahl des Barebones oder etwa bei defekter Festplatte kommt keiner ohne 
  1. Passwort: (PW eingeben)
  1. Festplatte partitionieren: "Geführt - gesamte Platte mit verschlüsseltem LVM"
  1. Alle Dateien auf eine Partition, mit "Ja" bestätigen
- 1. Nun startet das überschreiben mit zufälligen Daten, dauert ewig, aber sollte man machen. Kann man mit "Abbrechen" auch abbrechen und die Installation dennoch weiter fortführen.
+ 1. Nun startet das überschreiben mit zufälligen Daten, dauert ewig, aber sollte man machen, es sei denn die Festplatte ist neu oder war zuvor schon komplett verschlüsselt. Kann man mit "Abbrechen" abbrechen und die Installation weiter fortführen.
  1. Passphrase für die Verschlüsselung vergeben. Bitte sehr gutes Passwort verwenden.
  1. Größe: "max" eingeben oder so belassen
  1. "Partitionierung beenden und Änderungen übernehmen" bestätigen
