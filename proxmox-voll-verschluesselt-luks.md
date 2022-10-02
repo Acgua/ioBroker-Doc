@@ -17,7 +17,7 @@ Bei Diebstahl des Barebones oder etwa bei defekter Festplatte kommt keiner ohne 
 
 1. Windows: Debian-Linux (11.5, Bullseye) herunterladen: https://www.debian.org/CD/http-ftp/#stable -> CD -> "amd64" -> runterscrollen -> Datei: `debian-11.5.0-amd64-netinst.iso`
 2. Windows: [Etcher (Portable)](https://www.balena.io/etcher/) installieren und ausführen, und Image auf USB-Stick schreiben.
-3. Bildschirm, Tastatur/Maus, Netzwerkkabel und USB-Stick an Barebone anschließen, starten, "F8" für Boot-Menü und USB-Stick (erster der beiden USB-Stick-Einträge) auswählen
+3. Bildschirm, Tastatur/Maus, Netzwerkkabel und USB-Stick an Barebone anschließen, starten, Boot-Menü aufrufen und USB-Stick auswählen
 
 ## Debian installieren
  1. Graphical install, Sprache Deutsch etc.
