@@ -32,7 +32,7 @@ Bei Diebstahl des Barebones oder etwa bei defekter Festplatte kommt keiner ohne 
  1. Nun startet das überschreiben mit zufälligen Daten, dauert ewig, aber sollte man machen. Kann man mit "Abbrechen" auch abbrechen und die Installation dennoch weiter fortführen.
  1. Passphrase für die Verschlüsselung vergeben. Bitte sehr gutes Passwort verwenden.
  1. Größe: "max" eingeben oder so belassen
- 1 "Partitionierung beenden und Änderungen übernehmen" bestätigen
+ 1. "Partitionierung beenden und Änderungen übernehmen" bestätigen
  1. Deutsch als Spiegelserver, kein Proxy
  1. Statistiken: wie gewünscht ja oder nein
  1. Software: nur SSH Server und Standard-Systemwerkzeuge, **kein Desktop**
